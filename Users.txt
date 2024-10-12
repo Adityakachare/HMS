@@ -1,0 +1,21 @@
+Aditya27
+1234567
+
+ADMIN: username and password - Aditya@27
+
+DOCTOR : username and password - JohnS
+DOCTOR : username and password - AryanK
+
+
+
+py manage.py runserver
+
+
+
+
+ADMIN: ADITYA aditya | Kadambari Kadambari
+DOCTOR: Aatmaja Aatmaja |PATIENT- Aryan Aryan
+DOCTOR: Shubham Shubham
+PATIENT: Adi Adi
+
+DISCHARGE PATIENT Aryan
